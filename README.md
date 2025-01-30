@@ -1,6 +1,8 @@
  ## Olá! Eu Sou a Camila. 😄
 
 - Acadêmica em Sistemas de Informação. 👩‍💻
+
+- ![snake gif](https://github.com/camila-cavalcante23/camila-cavalcante23/blob/output/github-contribution-grid-snake.gif)
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Camila-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
