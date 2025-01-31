@@ -26,5 +26,9 @@
 
 ##
 
+<img src="https://github.com/user-attachments/assets/1a71e982-7868-431d-bb42-7e9e1f2f5dcc"  align="right"  alt="Imagem gif" width="100" >
+
+##
+
 ![snake gif](https://github.com/camila-cavalcante23/camila-cavalcante23/blob/output/github-contribution-grid-snake.gif)
 
