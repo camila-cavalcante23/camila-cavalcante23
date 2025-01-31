@@ -15,10 +15,13 @@
    <img align="center" alt="Camila-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
 </div>
   
-  ##
+##
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camila-cavalcante23&layout=compact&theme=tokyonight) 
 
 <img src="https://github.com/user-attachments/assets/1a71e982-7868-431d-bb42-7e9e1f2f5dcc"  align="right"  alt="Imagem gif" width="100" >
+
+##
   
 <div> 
 <a href="https://www.instagram.com/mill_a1709/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
