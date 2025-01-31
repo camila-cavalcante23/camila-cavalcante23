@@ -23,9 +23,6 @@
   <a href="https://www.linkedin.com/in/camila-paiva-992379301/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 ✉️ camilapaiva128@gmail.com
-
-##
-
 <img src="https://github.com/user-attachments/assets/1a71e982-7868-431d-bb42-7e9e1f2f5dcc"  align="right"  alt="Imagem gif" width="100" >
 
 ##
