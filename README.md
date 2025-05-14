@@ -1,4 +1,4 @@
- ## Olá! Eu Sou a Camila. 😄
+ ## Olá! Eu Sou a Camila. 
 
 - Acadêmica em Sistemas de Informação. 👩‍💻
 
